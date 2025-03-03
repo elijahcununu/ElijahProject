@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="mystyle.css">
+</head>
+<body>
+<p> UNIVERSITY OF GREATER MANCHERSTER, BOLTON, UK </p>
+<p> STUDENT BIO-DATA </p>
+<p> Name: Ununu Elijah Chukwuemeka </p>
+<p> Level: Postgraduate </p>
+<p> Course: M.Sc in Cyber Security </p>
+<p> Year: 2025/2026 </p>
+<p> Interest: To beckon on global fight for cyber crime and corruption via technological aids </p>
+</body>
+</html>
